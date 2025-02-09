@@ -1,0 +1,1 @@
+# sidestore-server-list
